@@ -39,3 +39,29 @@ font-weight: 600;
 font-size: 16px;
 line-height: 125%;
 }
+
+#form-habits {
+  display: flex;
+
+  padding: 182px 48px 48px;
+  white: fit-content;
+}
+
+.habits {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+
+  gap: 24px;
+}
+
+.habits {
+  width: 64px;
+  height: 64px;
+
+  font-size: 32px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
