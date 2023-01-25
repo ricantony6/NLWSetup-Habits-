@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habists é um aplicativo marcador de habitos dia a dia.
 
-- [Acesse o projeto finalizado, online](#)
+- [Acesse o projeto finalizado, online](https://ricantony6.github.io/NLWSetup-Habits-/)
 
 - ♥ aplicativo lançado pela Rocketseat
 - ♥ Ricardo Antonio Rodrigues
